@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/singrar-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/singrar-test/static/js/main.c2a745e5.chunk.js",
+    "main.js.map": "/singrar-test/static/js/main.c2a745e5.chunk.js.map",
+    "runtime-main.js": "/singrar-test/static/js/runtime-main.902fcd94.js",
+    "runtime-main.js.map": "/singrar-test/static/js/runtime-main.902fcd94.js.map",
+    "static/js/2.aba2e33f.chunk.js": "/singrar-test/static/js/2.aba2e33f.chunk.js",
+    "static/js/2.aba2e33f.chunk.js.map": "/singrar-test/static/js/2.aba2e33f.chunk.js.map",
+    "index.html": "/singrar-test/index.html",
+    "precache-manifest.ee1efbd2bc4918223872d8ad8c5a2a8a.js": "/singrar-test/precache-manifest.ee1efbd2bc4918223872d8ad8c5a2a8a.js",
+    "service-worker.js": "/singrar-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/singrar-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.aba2e33f.chunk.js.LICENSE.txt": "/singrar-test/static/js/2.aba2e33f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/singrar-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.902fcd94.js",
+    "static/js/2.aba2e33f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c2a745e5.chunk.js"
+  ]
+}
