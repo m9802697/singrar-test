@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d3184c1cd18e64599665363d41eb9e0",
+    "revision": "4b6df9b404b774cec7bdf0d8fe13c9cc",
     "url": "/singrar-test/index.html"
   },
   {
-    "revision": "066f2cf9284fe8fcab08",
+    "revision": "5719a520a15c87c8b3d0",
     "url": "/singrar-test/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/singrar-test/static/js/2.aba2e33f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "066f2cf9284fe8fcab08",
-    "url": "/singrar-test/static/js/main.c2a745e5.chunk.js"
+    "revision": "5719a520a15c87c8b3d0",
+    "url": "/singrar-test/static/js/main.71311b8d.chunk.js"
   },
   {
     "revision": "d07fd7dd35d335717711",
